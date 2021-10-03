@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Lesson2.7</string>
+    <string name="ac">AC</string>
+    <string name="plusminus">+/-</string>
+    <string name="procent">%</string>
+    <string name="delit">/</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="umnojit">*</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="minus">-</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="plus">+</string>
+    <string name="zero">0</string>
+    <string name="tochka">.</string>
+    <string name="rovno">=</string>
+    <string name="shape">shape</string>
+    <string name="policies">Policies</string>
+    <string name="policy">Policy</string>
+    <string name="product_category">Product Category</string>
+    <string name="origin_country">Origin Country</string>
+    <string name="brand">Brand</string>
+    <string name="current_policies">Current Policies</string>
+    <string name="finish_all_activity">Finish All Activity</string>
+</resources>
